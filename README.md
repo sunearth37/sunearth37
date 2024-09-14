@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, visitors! 👋
 
 Let's start the project one by one!
 
