@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Let's start the project one by one!
+
 <!--
 **sunearth37/sunearth37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
